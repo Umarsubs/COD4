@@ -1,0 +1,3 @@
+
+Sys_Error: Could not load default asset '$default' for asset type 'material'.
+Tried to load asset '$levelbriefing'.
